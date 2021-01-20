@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import comp3 from './components/comp3';
+import comp1 from './components/comp1';
+
 
 function App() {
   return (
     <div className="App">
-   <comp3/>
+      <comp1/>
     </div>
   );
 }
